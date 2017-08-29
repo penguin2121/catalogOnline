@@ -6,7 +6,7 @@ The password for the grader SSH key is: 'udacity'.
 
 ##Changes Made
 In addition to the modifications listed in the Udacity Project Details screen, I Installed the finger application.
-Additionally, I installed pip and the same modules that ocme with the vagrant install:
+Additionally, I installed pip and the same modules that come with the vagrant install:
 * bleach
 * certifi
 * chardet
