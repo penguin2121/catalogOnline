@@ -4,7 +4,7 @@ This application runs in a webserver at 34.214.27.49
 You can SSH into the server using Port 2200 with the username grader.
 The password for the grader SSH key is: 'udacity'.
 
-##Changes Made
+## Changes Made
 In addition to the modifications listed in the Udacity Project Details screen, I Installed the finger application.
 Additionally, I installed pip and the same modules that come with the vagrant install:
 * bleach
@@ -31,8 +31,8 @@ Additionally, I installed pip and the same modules that come with the vagrant in
 * urllib2
 * urllib3
 
-##Dependencies
+## Dependencies
 This application runs using Apache2 via wsig
 
-##Author
+## Author
 John Austin
